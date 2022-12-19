@@ -1,4 +1,4 @@
-# Projet Word
-Mettre en forme un document de présentation à l’aide de la mise en page et des styles Word.
-License, fichier Word et README.md
-![Badge](https://img.shields.io/badge/Word-Terminer-green)
+# Labo de Markdown
+Briève description du cours de C13.
+License, fichier Markdown et README.md
+![Badge](https://img.shields.io/badge/Labo_4_Markdown-Terminé-green)
