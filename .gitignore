@@ -1,25 +1,23 @@
-# Created by https://www.toptal.com/developers/gitignore/api/microsoftoffice
-# Edit at https://www.toptal.com/developers/gitignore?templates=microsoftoffice
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
 
-### MicrosoftOffice ###
-*.tmp
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
 
-# Word temporary
-~$*.doc*
+# Local History for Visual Studio Code
+.history/
 
-# Word Auto Backup File
-Backup of *.doc*
+# Built Visual Studio Code Extensions
+*.vsix
 
-# Excel temporary
-~$*.xls*
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
 
-# Excel Backup File
-*.xlk
-
-# PowerPoint temporary
-~$*.ppt*
-
-# Visio autosave temporary files
-*.~vsd*
-
-# End of https://www.toptal.com/developers/gitignore/api/microsoftoffice
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
